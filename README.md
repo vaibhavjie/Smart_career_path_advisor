@@ -125,7 +125,7 @@ Education: Bachelor's
 
 **Vaibhav Jain**  
 _BSc Data Science Student | Python & ML Enthusiast_  
-🔗 [LinkedIn]([https://www.linkedin.com/in/vaibhav-jain-84274826b) • 📧 vaibhavjie1@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-jain-84274826b) • 📧 vaibhavjie1@gmail.com
 
 ---
 
